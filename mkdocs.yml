@@ -1,0 +1,36 @@
+site_name: "Navigating ContentOps, DITA, Markdown, and AI: A ConVEx Atlas"
+site_url: https://vt-evia.github.io/convex-atlas-handout
+site_description: "Handout for the ConVEx 2026 presentation by Carlos Evia and Rebekka Andersen — April 13, 2026"
+site_author: "Carlos Evia & Rebekka Andersen"
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: teal
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.top
+    - toc.integrate
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - "The Atlas: Key Concepts": concepts.md
+  - "Suggested Paths": paths.md
+  - Resources: resources.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/vt-evia/convex-atlas-handout
