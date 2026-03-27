@@ -50,20 +50,10 @@ MDITA in particular enables content teams to author in Markdown while preserving
 
 ---
 
-## Territory 4: AI and the Emergence of Intentio Algorithmi
+## Territory 4: AI 
 
 AI systems in content workflows are not passive processors. They exert an interpretive force on content — selecting, transforming, summarizing, and generating based on patterns learned from training data and shaped by system prompts and retrieval architectures.
 
-We propose extending Umberto Eco's tripartite model of textual intentionality:
-
-| Intentio | Source | Description |
-|---|---|---|
-| *Intentio auctoris* | Author | What the author meant to communicate |
-| *Intentio operis* | Text | What the text itself communicates independent of authorial intent |
-| *Intentio lectoris* | Reader | What the reader brings to the text |
-| ***Intentio algorithmi*** | **AI system** | **What the AI system "reads into" content based on its architecture, training, and task** |
-
-**Implications for ContentOps:** structured content with explicit semantics (typed topics, metadata, clear hierarchy) is more legible to AI systems and produces more predictable *intentio algorithmi* outcomes. Unstructured or ambiguous content increases the variance of AI interpretation.
 
 ---
 
