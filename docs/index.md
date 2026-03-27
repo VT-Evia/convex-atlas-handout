@@ -4,8 +4,8 @@
 
 ---
 
-**Carlos Evia** · Professor of Communication & Associate Dean, College of Liberal Arts and Human Sciences, Virginia Tech  
-**Rebekka Andersen** · Professor, University of California Davis
+**Carlos Evia** · Professor, Associate Dean, and CTO; College of Liberal Arts and Human Sciences, Virginia Tech  
+**Rebekka Andersen** · Associate Professor; University of California Davis
 
 ---
 
@@ -47,7 +47,6 @@ In this session, we use the atlas metaphor to argue that content professionals i
 | **DITA** | Darwin Information Typing Architecture — an XML-based open standard for structured technical content |
 | **LwDITA** | Lightweight DITA — a simplified subset of DITA supporting XDITA, HDITA (HTML5), and MDITA (Markdown) |
 | **MDITA** | The Markdown serialization of LwDITA; enables DITA-compatible structured authoring in plain Markdown |
-| **Intentio algorithmi** | The interpretive force that AI systems bring to content — a fourth *intentio* extending Eco's tripartite model |
 | **Docs-as-code** | Treating documentation with software development practices: version control, CI/CD, peer review |
 | **Semantic integrity** | The preservation of meaning, structure, and reuse potential as content moves across formats and systems |
 
