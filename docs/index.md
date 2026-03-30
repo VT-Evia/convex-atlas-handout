@@ -9,6 +9,12 @@
 
 ---
 
+<a href="assets/images/atlas-map.jpg" target="_blank">
+  <img src="assets/images/atlas-map.jpg" alt="Atlas of Content Operations: a hand-drawn map showing the DITA Superhighway, Markdown Trail, LwDITA Bridge, Topic-Based Interchange, Plains of Content Strategy, GenAI Junction, and Enterprise CCMS Underground — illustrating the interconnected territories of structured authoring, lightweight formats, and AI-assisted content workflows" class="atlas-map">
+</a>
+
+---
+
 ## About This Session
 
 Where are you on the content operations map? This session presents a cartographic framework for navigating the overlapping territories of structured authoring (DITA), lightweight formats (Markdown, LwDITA), AI-assisted workflows, and content operations at scale. Rather than prescribing a single "right" path, we offer an atlas — a set of maps showing different terrain, trade-offs, and routes depending on where your organization is starting from and where it needs to go.
