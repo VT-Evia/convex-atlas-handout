@@ -9,8 +9,8 @@
 
 ---
 
-<a href="assets/images/atlas-map.jpg" target="_blank">
-  <img src="assets/images/atlas-map.jpg" alt="Atlas of Content Operations: a hand-drawn map showing the DITA Superhighway, Markdown Trail, LwDITA Bridge, Topic-Based Interchange, Plains of Content Strategy, GenAI Junction, and Enterprise CCMS Underground — illustrating the interconnected territories of structured authoring, lightweight formats, and AI-assisted content workflows" class="atlas-map">
+<a href="assets/images/atlas-map.jpg" target="_blank" rel="noopener noreferrer">
+  <img src="assets/images/atlas-map.jpg" alt="Atlas of Content Operations: a hand-drawn map showing the DITA Superhighway, Markdown Trail, LwDITA Bridge, Topic-Based Interchange, Plains of Content Strategy, GenAI Junction, and Enterprise CCMS Underground — illustrating the interconnected territories of structured authoring, lightweight formats, and AI-assisted content workflows" class="atlas-map" loading="lazy" decoding="async">
 </a>
 
 ---
