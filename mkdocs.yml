@@ -30,6 +30,9 @@ nav:
   - "Suggested Paths": paths.md
   - Resources: resources.md
 
+extra_css:
+  - assets/stylesheets/extra.css
+
 extra:
   social:
     - icon: fontawesome/brands/github
