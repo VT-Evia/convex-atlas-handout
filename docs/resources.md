@@ -34,8 +34,8 @@ Selected readings, tools, and references related to the session.
 
 ## Connect
 
-- **Carlos Evia** · [carlosevia.com](https://carlosevia.com) · [cevia@vt.edu](mailto:cevia@vt.edu)
-- **Rebekka Andersen** · University of California Davis
+- **Carlos Evia** · [cevia@vt.edu](mailto:cevia@vt.edu), Virginia Tech
+- **Rebekka Andersen** · [randersen@ucdavis.edu](mailto:randersen@ucdavis.edu), University of California Davis
 
 ---
 

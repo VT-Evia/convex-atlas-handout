@@ -33,7 +33,7 @@ In this session, we use the atlas metaphor to argue that content professionals i
 
 ---
 
-## Core Claims
+## Core Claims (to be revised 04/01)
 
 1. **DITA and Markdown are not competitors; they are different maps of the same territory.** The meaningful question is not "DITA or Markdown?" but "at what scale, for what audience, with what tooling?"
 
@@ -45,24 +45,11 @@ In this session, we use the atlas metaphor to argue that content professionals i
 
 ---
 
-## Key Terms
-
-| Term | Working Definition |
-|---|---|
-| **ContentOps** | The operational discipline of managing content as a scalable, governed, continuously delivered asset |
-| **DITA** | Darwin Information Typing Architecture — an XML-based open standard for structured technical content |
-| **LwDITA** | Lightweight DITA — a simplified subset of DITA supporting XDITA, HDITA (HTML5), and MDITA (Markdown) |
-| **MDITA** | The Markdown serialization of LwDITA; enables DITA-compatible structured authoring in plain Markdown |
-| **Docs-as-code** | Treating documentation with software development practices: version control, CI/CD, peer review |
-| **Semantic integrity** | The preservation of meaning, structure, and reuse potential as content moves across formats and systems |
-
----
-
 ## Contact
 
 Questions after the session? Reach us at:
 
-- Carlos Evia · [cevia@vt.edu](mailto:cevia@vt.edu) · [carlosevia.com](https://carlosevia.com)
-- Rebekka Andersen · University of California Davis
+- Carlos Evia · [cevia@vt.edu](mailto:cevia@vt.edu), Virginia Tech
+- Rebekka Andersen · [randersen@ucdavis.edu](mailto:randersen@ucdavis.edu), University of California Davis.
 
 *This handout is an open, versioned document. If you find an error or want to suggest a revision, open an issue or pull request on [GitHub](https://github.com/vt-evia/convex-atlas-handout).*

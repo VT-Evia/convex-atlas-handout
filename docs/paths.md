@@ -1,4 +1,4 @@
-# Suggested Paths
+# Suggested Paths (needs revision to align with slides)
 
 Not all organizations are at the same point on the map. Use these paths as starting points for finding your route.
 
