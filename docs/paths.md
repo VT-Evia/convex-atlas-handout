@@ -83,6 +83,7 @@ Vendors, consultants, ConVEx participants, and thought leaders including Scott A
 *Vocabulary & next steps*
 
 **Key Landmarks**
+
 - Content is a spectrum of complexity, not a single tool.
 - Authoring standards: Markdown = accessible trail / DITA = structured highway.
 - Tools serve ecosystems — ask "what problem does this solve?"
