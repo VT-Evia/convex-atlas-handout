@@ -27,7 +27,7 @@ theme:
 nav:
   - Home: index.md
   - "The Atlas: Key Concepts": concepts.md
-  - "Suggested Paths": paths.md
+  - "Your Atlas Today's Journey": paths.md
   - Resources: resources.md
 
 extra_css:
