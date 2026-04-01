@@ -29,15 +29,15 @@ In this session, we use the atlas metaphor to help you navigate the ConVEx confe
 
 ---
 
-## Core Claims (to be revised 04/01)
+## Keys to the Atlas
 
 1. **DITA and Markdown are not competitors; they are different maps of the same territory.** The meaningful question is not "DITA or Markdown?" but "at what scale, for what audience, with what tooling?"
 
-2. **AI is a new kind of traveler on the content map** — one that reads formats literally, rewards structured semantics, and introduces what we call *intentio algorithmi*: the interpretive force that AI systems exert on content as they process, transform, and generate it.
+2. **AI is a new kind of traveler on the content atlas** — one that reads formats literally, rewards structured semantics, and introduces what we call *intentio algorithmi*: the interpretive force that AI systems exert on content as they process, transform, and generate it.
 
-3. **ContentOps is the infrastructure layer beneath the map** — governance, pipelines, and metadata standards that determine whether any content strategy is sustainable.
+3. **ContentOps is the infrastructure layer beneath the maps** — governance, pipelines, and metadata standards that determine whether any content strategy is sustainable.
 
-4. **Lightweight DITA (LwDITA) is a border crossing** — a formally specified interface between the DITA ecosystem and Markdown/HDITA/XDITA workflows, not a simplification of DITA.
+4. **Lightweight DITA (LwDITA) is a border crossing** — a formally specified interface between the DITA ecosystem and Markdown/HTML workflows, not a simplification of DITA.
 
 ---
 
@@ -46,6 +46,6 @@ In this session, we use the atlas metaphor to help you navigate the ConVEx confe
 Questions after the session? Reach us at:
 
 - Carlos Evia · [cevia@vt.edu](mailto:cevia@vt.edu), Virginia Tech
-- Rebekka Andersen · [randersen@ucdavis.edu](mailto:randersen@ucdavis.edu), University of California Davis.
+- Rebekka Andersen · [randersen@ucdavis.edu](mailto:randersen@ucdavis.edu), University of California, Davis.
 
 *This handout is an open, versioned document. If you find an error or want to suggest a revision, open an issue or pull request on [GitHub](https://github.com/vt-evia/convex-atlas-handout).*
