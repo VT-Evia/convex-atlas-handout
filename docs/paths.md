@@ -1,9 +1,5 @@
 # Your Atlas: Today's Journey
 
-Not all organizations are at the same point on the map. Use these paths as starting points for finding your route.
-
----
-
 ## Welcome to the Territory
 
 *Who, what, & why*
