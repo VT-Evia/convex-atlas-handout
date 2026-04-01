@@ -5,7 +5,7 @@
 ---
 
 **Carlos Evia** · Professor, Associate Dean, and CTO; College of Liberal Arts and Human Sciences, Virginia Tech  
-**Rebekka Andersen** · Associate Professor; University of California Davis
+**Rebekka Andersen** · Associate Professor; University of California, Davis
 
 ---
 
@@ -17,7 +17,7 @@
 
 ## About This Session
 
-Where are you on the content operations map? This session presents a cartographic framework for navigating the overlapping territories of structured authoring (DITA), lightweight formats (Markdown, LwDITA), AI-assisted workflows, and content operations at scale. Rather than prescribing a single "right" path, we offer an atlas — a set of maps showing different terrain, trade-offs, and routes depending on where your organization is starting from and where it needs to go.
+Where are you on your content operations journey? This session presents a cartographic framework for navigating the overlapping territories of structured authoring (DITA), lightweight formats (Markdown, LwDITA), AI-assisted workflows, and content operations at scale. Rather than prescribing a single "right" path, we offer an atlas —a set of maps showing different terrain, trade-offs, and routes depending on where your organization is starting from and where it needs to go.
 
 ---
 
@@ -25,11 +25,7 @@ Where are you on the content operations map? This session presents a cartographi
 
 Atlases don't tell you where to go. They show you the territory so you can choose your own route.
 
-In this session, we use the atlas metaphor to argue that content professionals in 2026 need:
-
-- **Legibility** — the ability to read the landscape of tools, formats, and workflows as a coherent terrain rather than a set of disconnected vendor choices
-- **Wayfinding** — practical frameworks for moving between formats and systems without losing semantic integrity
-- **Scale awareness** — understanding which maps apply at team scale, enterprise scale, and AI-augmented scale
+In this session, we use the atlas metaphor to help you navigate the ConVEx conference to gather resources and ideas that you can take home and implement in your professional workflows. We also aim to introduce you to key figures in the specific content domains at the center of this event and the CIDM community.
 
 ---
 
