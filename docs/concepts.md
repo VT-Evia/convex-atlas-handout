@@ -11,6 +11,7 @@ DITA is an XML-based authoring standard used to create, manage, and publish stru
 iiRDS is an open standard for packaging and delivering technical information with rich metadata. It enables content to be dynamically filtered and delivered based on user context, such as role, task, or device. By standardizing metadata and content exchange, iiRDS supports intelligent content delivery, interoperability across systems, and more personalized user experiences.
 
 **Lightweight DITA (LwDITA)**
+
 Lightweight DITA is a simplified version of the DITA standard designed to make structured authoring more accessible and flexible. It supports multiple authoring formats—including XML, HTML5, and Markdown—while maintaining compatibility with DITA’s core principles of topic-based, reusable content. LwDITA enables teams to adopt structured content practices with lower technical overhead and easier integration into modern, docs-as-code workflows.
 
 **Markdown**  
