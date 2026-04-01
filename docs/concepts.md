@@ -10,6 +10,9 @@ DITA is an XML-based authoring standard used to create, manage, and publish stru
 **iiRDS (Intelligent Information Request and Delivery Standard)**  
 iiRDS is an open standard for packaging and delivering technical information with rich metadata. It enables content to be dynamically filtered and delivered based on user context, such as role, task, or device. By standardizing metadata and content exchange, iiRDS supports intelligent content delivery, interoperability across systems, and more personalized user experiences.
 
+**Lightweight DITA (LwDITA)**
+Lightweight DITA is a simplified version of the DITA standard designed to make structured authoring more accessible and flexible. It supports multiple authoring formats—including XML, HTML5, and Markdown—while maintaining compatibility with DITA’s core principles of topic-based, reusable content. LwDITA enables teams to adopt structured content practices with lower technical overhead and easier integration into modern, docs-as-code workflows.
+
 **Markdown**  
 Markdown is a lightweight markup language that allows writers to format text using simple, readable syntax (such as \# for headings or \* for lists). It is commonly used for documentation, web content, and collaborative writing because it is easy to learn and converts readily into formats like HTML. Markdown supports fast, flexible authoring without requiring complex tools.
 
@@ -69,11 +72,12 @@ Content operations (ContentOps) refers to the coordinated processes, roles, tech
 **Content Strategy**  
 Content strategy is the practice of planning, creating, delivering, and governing content to meet user needs and business goals. It involves decisions about content structure, voice, governance, and lifecycle management. In technical communication, content strategy ensures that information is useful, usable, and aligned with organizational objectives across all channels and touchpoints.
 
+**Docs-as-Code Approaches to Authoring**  
+Docs-as-code is an approach that treats documentation like software code, using tools and practices such as version control (e.g., Git), plain text formats (like Markdown), and automated build pipelines. Writers collaborate through pull requests, reviews, and continuous integration workflows. This methodology improves transparency, collaboration, and quality while aligning documentation processes with modern software development practices.
+
 **Metadata Strategy**  
 A metadata strategy defines how metadata is designed, applied, and governed across content systems. It establishes standards for tagging content with attributes such as audience, product, task, or lifecycle status. A strong metadata strategy enables efficient search, filtering, personalization, and automation, and is foundational for intelligent content delivery and AI-driven content workflows.
 
-**Docs-as-Code Approaches to Authoring**  
-Docs-as-code is an approach that treats documentation like software code, using tools and practices such as version control (e.g., Git), plain text formats (like Markdown), and automated build pipelines. Writers collaborate through pull requests, reviews, and continuous integration workflows. This methodology improves transparency, collaboration, and quality while aligning documentation processes with modern software development practices.
 
 **Structured Authoring**  
 Structured authoring is the practice of creating content according to predefined rules, formats, and schemas, often using XML-based standards like DITA. Authors work with modular content components rather than linear documents, applying consistent structure and semantics. This approach enables content reuse, automation, and multi-channel publishing, while improving consistency and scalability in technical documentation workflows.
