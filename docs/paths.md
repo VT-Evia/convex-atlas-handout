@@ -4,60 +4,91 @@ Not all organizations are at the same point on the map. Use these paths as start
 
 ---
 
-## Path A: "We're a DITA shop. Where does AI fit?"
+## Welcome to the Territory
 
-**Starting point:** Established DITA or component CMS (CCMS) environment, professional technical writers, existing governance.
+*Who, what, & why*
 
-**Recommended route:**
-
-1. **Audit your metadata.** AI systems work best with content that has explicit, consistent metadata. DITA's architecture supports this, but only if your metadata is actually populated and governed.
-2. **Evaluate your output architecture for AI readiness.** Is your content published in formats that AI retrieval systems can parse (HTML, chunked topics, structured JSON)? If output is PDF-first, AI integration will be limited.
-3. **Introduce LwDITA MDITA for contributor onboarding.** Subject matter experts and developers who resist XML authoring can contribute via MDITA with tooling (VS Code + DITA-OT) that maintains DITA compatibility.
-4. **Define your *intentio algorithmi* policy.** What should AI systems do with your content? Summarize? Answer questions? Generate variants? Define this before choosing tooling.
-
-**Watch out for:** assuming that "structured content = AI-ready content." Structure is necessary but not sufficient — consistent metadata and deliberate output architecture matter equally.
+ConVEx can feel like entering a new world — tools, acronyms, and experts everywhere. You don't need to know every road before you travel. You need a good atlas, and that's what this session is all about. By the end, you will have vocabulary, frameworks, and confidence to engage.
 
 ---
 
-## Path B: "We're docs-as-code in Markdown. How do we scale?"
+## The Landscape: The Discipline of Content
 
-**Starting point:** Developer documentation, Git-based workflow, static site generator, small-to-medium team.
+*Complexity spectrum*
 
-**Recommended route:**
+Four disciplinary areas structure the discipline of content:
 
-1. **Introduce MDITA conventions before you need them.** Adding DITA-compatible YAML front matter and topic-type conventions to your Markdown now costs almost nothing and enables DITA-OT processing later.
-2. **Define your reuse strategy.** Markdown's native reuse mechanisms (includes, snippets) vary by static site generator and are not portable. Consider whether LwDITA's map-based reuse is worth adopting.
-3. **Build governance into your pipeline.** Linting, style checking, and metadata validation can be added to CI/CD workflows (GitHub Actions, etc.) to enforce structure without changing authoring tools.
-4. **Treat AI as a pipeline stage.** AI-assisted authoring, review, and summarization can be integrated into your existing docs-as-code pipeline as steps in a workflow, not as replacements for the workflow.
-
-**Watch out for:** Markdown fragmentation. Every SSG has a different Markdown flavor, shortcode syntax, and front matter schema. Standardize early.
+- **Content Operations** - govern
+- **Content Strategy** — planning
+- **Content Engineering** — implementation
+- **Content Design** — production
 
 ---
 
-## Path C: "We're starting from scratch. What should we build?"
+## The Roads: From Markdown to DITA to Enterprise Tools
 
-**Starting point:** New content operation, greenfield toolchain decision, or significant migration/modernization.
+*All roads…*
 
-**Recommended route:**
+**Markdown — The Easy Road**
+Human-readable syntax with a low barrier to entry. Native to GitHub and docs-as-code workflows. Ideal starting point for content workflows.
 
-1. **Start with ContentOps, not tools.** Identify your content types, reuse requirements, delivery channels, and governance model before selecting authoring tools or formats.
-2. **Choose your format based on your contributor profile.** If contributors are professional technical writers at scale: DITA. If contributors are developers or mixed: MDITA or Markdown with LwDITA conventions. If contributors are non-technical: HDITA or a headless CMS with structured content modeling.
-3. **Design for AI from the start.** Build metadata schemas, topic typing, and output formats with AI legibility in mind. This is significantly easier to do at the start than to retrofit.
-4. **Build a CI/CD pipeline from day one.** Even a simple GitHub Actions workflow that builds and validates your content on every commit establishes the operational discipline that scales.
+**DITA — The Structured Highway**
+Topic-based authoring at enterprise scale. Powerful content reuse and conditional publishing. Built for complex, multi-audience, multi-language content.
 
-**Watch out for:** over-engineering for scale you don't have yet. Start with the simplest toolchain that meets your current needs and has a clear upgrade path.
+**Enterprise CCMS — The Express Subway**
+Managed infrastructure for large content teams. Automated workflows and publishing pipelines. Moves fast through the DITA highway and the Markdown roads.
+
+**LwDITA — The Bridge**
+Connects all roads: Markdown authoring syntax · DITA topic structure · enterprise content workflows.
 
 ---
 
-## Path D: "We need to make the case for structured authoring to leadership."
+## The Cities: Partners & Communities
 
-**Starting point:** Individual contributor or team lead who understands the value of structure but needs to build organizational support.
+*Ecosystems & infrastructure*
 
-**Recommended route:**
+**Organizations**
+- CIDM — Center for Information-Development Management
+- The Kinetic Council
+- ACM Special Interest Group on the Design of Communication (SIGDOC)
 
-1. **Use AI as the bridge argument.** Leadership conversations about DITA and structured authoring are easier when framed around AI readiness. "Our content needs to be structured so AI systems can use it reliably" lands differently than "we need XML."
-2. **Start with a pilot.** A single content type (release notes, API docs, onboarding guides) migrated to a structured format with measurable outcomes is more persuasive than a comprehensive proposal.
-3. **Quantify the cost of unstructured content.** Translation costs, search failure rates, duplicate content, and inconsistent AI outputs are all measurable costs of unstructured content operations.
-4. **Connect to existing initiatives.** ContentOps arguments land better when connected to ongoing programs: AI adoption, accessibility compliance, product localization, or developer experience.
+**Online Resources**
+- Write the Docs
+- The Content Wrangler
 
-**Watch out for:** making the argument on tool features rather than business outcomes.
+**Partners**
+Vendors, consultants, ConVEx participants, and thought leaders including Scott Abel, Rahel Bailie, Joe Gollner, Michael Iantosca, Sarah O'Keefe, and many more.
+
+---
+
+## The Frontier: Generative & Agentic AI
+
+*Opportunities & challenges*
+
+
+**AI Does Well Today**
+- Drafting and transforming content
+- Metadata generation and tagging
+- Translation and localization assistance
+- Summarizing and restructuring
+- Generating variations at scale
+
+**Proceed with Caution**
+- Hallucination in technical content
+- Structural compliance with DITA schemas
+- Consistency across large content sets
+- The human communicator's edge: judgment, context, and ethics
+- The map is shifting — build durable skills
+
+---
+
+## Your Atlas: Putting It Together
+
+*Vocabulary & next steps*
+
+**Key Landmarks**
+- Content is a spectrum of complexity, not a single tool.
+- Authoring standards: Markdown = accessible trail / DITA = structured highway.
+- Tools serve ecosystems — ask "what problem does this solve?"
+- AI is a powerful but imprecise collaborator — proceed thoughtfully.
+- Your edge: judgment, context, and human intent.
